@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/xss-payload.yaml",
+    "url": "https://raw.githubusercontent.com/staretz/test-swg/blob/main/xss-payload.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/xss-payload.yaml",
+            "url": "https://raw.githubusercontent.com/staretz/test-swg/blob/main/xss-payload.yaml",
             "name": "API Documentation"
         }
     ]
