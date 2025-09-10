@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/xss-payload.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/xss-payload.yaml",
+            "name": "API Documentation"
+        }
+    ]
+}
