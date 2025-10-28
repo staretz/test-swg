@@ -1,6 +1,7 @@
 swagger: "2.0"
 info:
   title: "Phishing PoC"
-  description: '<div style="background:red;color:white;padding:20px;border:2px solid black;margin:10px;"><h2>LogIn</h2><p>Por favor ingresa tus credenciales:</p><form><input type="text" placeholder="Usuario" style="margin:5px;"><br><input type="password" placeholder="Contraseña" style="margin:5px;"><br><button type="button" style="margin:5px;">Iniciar Sesión</button></form></div>'
+  #description: '<div style="background:red;color:white;padding:20px;border:2px solid black;margin:10px;"><h2>LogIn</h2><p>Por favor ingresa tus credenciales:</p><form><input type="text" placeholder="Usuario" style="margin:5px;"><br><input type="password" placeholder="Contraseña" style="margin:5px;"><br><button type="button" style="margin:5px;">Iniciar Sesión</button></form></div>'
+  description: '<div style="background:red;color:white;padding:20px;border:2px solid black;margin:10px;"><img src="https://cdn.pixabay.com/photo/2023/12/10/09/44/ai-generated-8440919_1280.jpg" alt="Imagen desde URL"></div>'
   version: "1.0.0"
 paths: {}
